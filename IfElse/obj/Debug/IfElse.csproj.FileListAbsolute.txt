@@ -1,0 +1,8 @@
+C:\Users\LENOVO\source\repos\IfElse\IfElse\bin\Debug\IfElse.exe.config
+C:\Users\LENOVO\source\repos\IfElse\IfElse\bin\Debug\IfElse.exe
+C:\Users\LENOVO\source\repos\IfElse\IfElse\bin\Debug\IfElse.pdb
+C:\Users\LENOVO\source\repos\IfElse\IfElse\obj\Debug\IfElse.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\IfElse\IfElse\obj\Debug\IfElse.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\source\repos\IfElse\IfElse\obj\Debug\IfElse.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\IfElse\IfElse\obj\Debug\IfElse.exe
+C:\Users\LENOVO\source\repos\IfElse\IfElse\obj\Debug\IfElse.pdb
